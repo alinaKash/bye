@@ -12,9 +12,3 @@
 3. Добавление изображений и ссылок
 4. Оформление кода
 
-## Контакты
-
-Если у вас есть вопросы, вы можете связаться со мной по электронной почте:
-[example@example.com](mailto:example@example.com).
-
-![Пример изображения](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
